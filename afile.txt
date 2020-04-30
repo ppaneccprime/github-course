@@ -1,4 +1,4 @@
-this is my afile.txt
+this is my afile.txt file
 adding a second line
 third line
 fourth line of text
