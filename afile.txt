@@ -1,2 +1,3 @@
 this is my afile.txt
 adding a second line
+third line
