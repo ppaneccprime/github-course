@@ -3,3 +3,4 @@ adding a second line
 third line
 fourth line of text
 fifth line
+sixth line of content to make peter happy

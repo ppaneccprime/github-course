@@ -1,2 +1,3 @@
 content for feature for rebase
-last line?
+last line? nope
+maybe this is last line
